@@ -1,1 +1,1 @@
-# M1_projecttpe_goal
+# M1_projectype_goal
