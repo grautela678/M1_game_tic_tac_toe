@@ -10,6 +10,11 @@
 - Although OXO was the very first video/computer game, it was almost completely overlooked at the time. There was only one EDSAC computer in existence, which was housed at the University of Cambridge and never made accessible to the public.
 - The code for OXO was retained as a tech demo for the EDSAC's capabilities.
 # FEATURES
+- The game is played on a grid that's 3 squares by 3 squares.
+
+- You are X, your friend (or the computer in this case) is O. Players take turns putting their marks in empty squares.
+- The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
+- When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
 ![Alt Text](https://github.com/grautela678/M1_projecttype_goal/blob/main/1_Requirements/1_kdY26OPGZbeNKJs60q0zUg.png)
 # 4W'S AND 1H
 ## WHO:
