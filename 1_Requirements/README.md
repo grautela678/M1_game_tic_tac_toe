@@ -13,3 +13,12 @@
 ![Alt Text](https://github.com/grautela678/M1_projecttype_goal/blob/main/1_Requirements/1_kdY26OPGZbeNKJs60q0zUg.png)
 # 4W'S AND 1H
 # SWOT
+## STRENGTH
+- Anybody can play this game.
+- It's a mind refreshing game.
+## WEAKNESS
+- The time period of game is very short.
+## OPPORTUNITIES
+- The game provides a opportinity to play two players at a time.
+## THREATS
+- After playing for a long time it will be boring.
