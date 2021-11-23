@@ -12,23 +12,27 @@
 # FEATURES
 ![Alt Text](https://github.com/grautela678/M1_projecttype_goal/blob/main/1_Requirements/1_kdY26OPGZbeNKJs60q0zUg.png)
 # 4W'S AND 1H
-## WHO
+## WHO:
 - Anyone who wants to play tic-tac-toe can play.
-## WHAT
+## WHAT:
 - It is a game played by two players for fun.
-## WHEN
+## WHEN:
 - Whenever the players wants to play to increase their fun.
-## WHY
+## WHY:
 - This project can easily teach beginners and this gives relief to them.
-## HOW
+## HOW:
 - The players can play the game after running the program.
 # SWOT
-## STRENGTH
+## STRENGTH:
 - Anybody can play this game.
 - It's a mind refreshing game.
-## WEAKNESS
+## WEAKNESS:
 - The time period of game is very short.
-## OPPORTUNITIES
+## OPPORTUNITIES:
 - The game provides a opportinity to play two players at a time.
-## THREATS
+## THREATS:
 - After playing for a long time it will be boring.
+# DETAIL REQUIREMENTS
+## HIGH LEVEL REQUIREMENTS:
+
+## LOW LEVEL REQUIREMENTS:
