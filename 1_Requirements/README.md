@@ -6,7 +6,9 @@
 - If no one wins, then the game is said to be draw.
 
 # RESEARCH
-
+- Alexander Sandy Douglas' thesis was a success, earning him his Ph.D. and starting his career in science, however, he would never again program another video or computer game.
+- Although OXO was the very first video/computer game, it was almost completely overlooked at the time. There was only one EDSAC computer in existence, which was housed at the University of Cambridge and never made accessible to the public.
+- The code for OXO was retained as a tech demo for the EDSAC's capabilities.
 # FEATURES
 ![Alt Text](https://github.com/grautela678/M1_projecttype_goal/blob/main/1_Requirements/1_kdY26OPGZbeNKJs60q0zUg.png)
 # 4W'S AND 1H
