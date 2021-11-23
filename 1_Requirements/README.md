@@ -12,6 +12,16 @@
 # FEATURES
 ![Alt Text](https://github.com/grautela678/M1_projecttype_goal/blob/main/1_Requirements/1_kdY26OPGZbeNKJs60q0zUg.png)
 # 4W'S AND 1H
+## WHO
+- Anyone who wants to play tic-tac-toe can play.
+## WHAT
+- It is a game played by two players for fun.
+## WHEN
+- Whenever the players wants to play to increase their fun.
+## WHY
+- This project can easily teach beginners and this gives relief to them.
+## HOW
+- The players can play the game after running the program.
 # SWOT
 ## STRENGTH
 - Anybody can play this game.
