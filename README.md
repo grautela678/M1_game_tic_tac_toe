@@ -4,3 +4,10 @@
 ## Code Grade
 ![Code Inspector Badge](https://api.codiga.io/project/29900/status/svg)
 
+# FOLDER STRUCTURE
+| FOLDER | DESCRIPTION |
+| :---        |        ---: |
+|1_Requirements   | Documents detailing requirements and research   | 
+| 2_Architecture | Documents specifying design details   | 
+| 3_Implementation   | All code and documentation | 
+| 4_Test_plan  | Documents with test plans and procedures  | 
