@@ -13,7 +13,22 @@
 | LL2 | 	Play proceeds with the user1/user2 alternately placing their marks in any unoccupied cell. Check if any user1/user2 finishes with 3 marks in a row(vertical, horizontal or diagonal).  | Inputs given by the user1/user2    |User1/user2 won the game |
 | LL3   | Check if a total of 9 moves have been made( combining that of user1 and user2), the game ends up in a draw when neither the user1 nor the user2 is able to get 3 marks in a row. | All the places are full    |Game draw   |
 # OUTPUT
-- START
-- User1 wins
-- User2 wins
-- Draw
+## START
+
+
+![Alt Text](https://github.com/grautela678/M1_game_tic_tac_toe/blob/main/6_ImagesAndVideos/1.jpg)
+
+## USER1 WINS
+
+
+![Alt Text](https://github.com/grautela678/M1_game_tic_tac_toe/blob/main/6_ImagesAndVideos/2.jpg)
+
+## USER2 WINS
+
+
+![Alt Text](https://github.com/grautela678/M1_game_tic_tac_toe/blob/main/6_ImagesAndVideos/3.jpg)
+
+## DRAW
+
+
+![Alt Text](https://github.com/grautela678/M1_game_tic_tac_toe/blob/main/6_ImagesAndVideos/4.jpg)
