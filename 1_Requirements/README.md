@@ -49,7 +49,7 @@
 | HLR6   | Draw situation       | Implemented     |
 ## LOW LEVEL REQUIREMENTS:
 | ID | DESCRIPTION | STATUS |
-| :---         |     :---:      |          ---: |
+| :---         |     :---      |        :--- |
 | LLR1   |If the user is playing with 'X', he'll get the first turn   | Implemented    |
 | LLR2   | If the user is playing with 'O', he'll get the second turn   | Implemented      |
 | LLR3   | User able to Exit the game   |Implemented    |
