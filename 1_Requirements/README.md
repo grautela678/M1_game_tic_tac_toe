@@ -39,5 +39,20 @@
 - After playing for a long time it will be boring.
 # DETAIL REQUIREMENTS
 ## HIGH LEVEL REQUIREMENTS:
-
+| ID | DESCRIPTION | STATUS |
+| :---         |     :---:      |          ---: |
+| HLR1   | User able to choose 'X' to play   | Implemented    |
+| HLR2   | User able to choose 'O' to play      | Implemented      |
+| HLR3   | User able to Exit the game   |Implemented    |
+| HLR4   | User loses   | Implemented      |
+| HLR5   | User shall wins | Implemented    |
+| HLR6   | Draw situation       | Implemented     |
 ## LOW LEVEL REQUIREMENTS:
+| ID | DESCRIPTION | STATUS |
+| :---         |     :---:      |          ---: |
+| LLR1   |If the user is playing with 'X', he'll get the first turn   | Implemented    |
+| LLR2   | If the user is playing with 'O', he'll get the second turn   | Implemented      |
+| LLR3   | User able to Exit the game   |Implemented    |
+| LLR4   | If the user1 gets 3 Xs or 3 Os in vertical,horizontal or diagonal row, User2 will lose  | Implemented      |
+| LLR5   | If the user2 gets 3 Xs or 3 Os in vertical,horizontal or diagonal row, User1 will lose | Implemented    |
+| LLR6   | If the total number of moves, i.e., 9 moves have been completed and neither the user1 nor the user2 has won, it will end up in a draw     | Implemented     |
