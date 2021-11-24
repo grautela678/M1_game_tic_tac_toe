@@ -1,2 +1,2 @@
-# ACTIVITY DIAGRAM
-![Alt Text](https://github.com/grautela678/M1_projecttype_goal/blob/main/2_Architecture/behavior%20Digrams/diagram.png)
+# ClLASS DIAGRAM
+![Alt Text](https://github.com/grautela678/M1_game_tic_tac_toe/blob/main/2_Architecture/structure%20Diagrams/class%20diagram.gif)
