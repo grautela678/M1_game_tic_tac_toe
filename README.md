@@ -8,6 +8,9 @@ Codacy | Code Grade| Cpp check| Unit Testing
 | :--- |  :--- |  :---  |:---
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2cd80779fd294e6c90c6c883725a3a0b)](https://www.codacy.com/gh/grautela678/M1_game_tic_tac_toe/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=grautela678/M1_game_tic_tac_toe&amp;utm_campaign=Badge_Grade) |![Code Inspector Badge](https://api.codiga.io/project/29900/status/svg) | [![Code Quality - Static Code - Cppcheck](https://github.com/grautela678/M1_game_tic_tac_toe/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/grautela678/M1_game_tic_tac_toe/actions/workflows/c-cpp.yml)|[![Unit Testing - Unity](https://github.com/grautela678/M1_game_tic_tac_toe/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/grautela678/M1_game_tic_tac_toe/actions/workflows/unit_testing.yml)
 
+Git Inspector|
+| :--- |
+| [![Contribution Check - Git Inspector](https://github.com/grautela678/M1_game_tic_tac_toe/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/grautela678/M1_game_tic_tac_toe/actions/workflows/git_inspector.yml) |
 # Folder Structure
 | FOLDER | DESCRIPTION |
 | :---        |        ---: |
