@@ -10,6 +10,8 @@
 ![Code Inspector Badge](https://api.codiga.io/project/29900/status/svg)
 ## Cpp check
 [![Code Quality - Static Code - Cppcheck](https://github.com/grautela678/M1_game_tic_tac_toe/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/grautela678/M1_game_tic_tac_toe/actions/workflows/c-cpp.yml)
+## Unit Testing
+[![Unit Testing - Unity](https://github.com/grautela678/M1_game_tic_tac_toe/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/grautela678/M1_game_tic_tac_toe/actions/workflows/unit_testing.yml)
 # FOLDER STRUCTURE
 | FOLDER | DESCRIPTION |
 | :---        |        ---: |
