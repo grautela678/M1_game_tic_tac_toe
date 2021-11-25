@@ -2,7 +2,9 @@
     Add required header files and function defintiions here
     upload this file to submitty
 */
+#include<stdio.h>
 #include "inc.h"
+#include<stdlib.h>
 char** createboard() {
   char** B = calloc(3, sizeof(char*));
   for(int i = 0; i < 3; ++i) {
@@ -78,3 +80,4 @@ char winningmove(char** Board, int i, int j) {
     // got nothing
     return 0;
   }
+}
