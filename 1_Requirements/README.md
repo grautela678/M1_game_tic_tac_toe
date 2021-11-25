@@ -40,12 +40,12 @@
 # DETAIL REQUIREMENTS
 ## HIGH LEVEL REQUIREMENTS
 | ID | DESCRIPTION | STATUS |
-| :---         |     :---:      |          ---: |
+| :---         |     :---    |          :--- |
 | HLR1   | User able to choose 'X' to play   | Implemented    |
 | HLR2   | User able to choose 'O' to play      | Implemented      |
 | HLR3   | User able to Exit the game   |Implemented    |
 | HLR4   | User loses   | Implemented      |
-| HLR5   | User shall wins | Implemented    |
+| HLR5   | User wins | Implemented    |
 | HLR6   | Draw situation       | Implemented     |
 ## LOW LEVEL REQUIREMENTS
 | ID | DESCRIPTION | STATUS |
