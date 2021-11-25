@@ -1,5 +1,4 @@
-PROJ_NAME = Tic_tacc_toe
-SRC = main.c define.c
+$(CC)=gcc
 
 #To check if the OS is windows or linux and set the executable file extension and delete command accordingly
 ifdef OS
@@ -13,12 +12,7 @@ else
 	  EXEC = out
    endif
 endif
-
 build:
-	gcc $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
-
-run: build
-	./$(call FixPath,$(PROJ_NAME).$(EXEC))
-
+	gcc main.c define.c -o build
 clean:
-	$(RM) $(call FixPath,$(PROJ_NAME).$(EXEC))
+	rm *.o final
